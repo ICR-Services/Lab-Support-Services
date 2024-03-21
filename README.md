@@ -1,5 +1,5 @@
 ## Acknowledgement
-We acknowledge the {insert-service-name} at The Institute of Cancer Research for providing {insert-service-description}. Their support was instrumental in achieving the results presented in this paper. {insert doi badge from zenodo}
+We acknowledge the Laboratory Support Service at The Institute of Cancer Research for providing {insert-service-description}. Their support was instrumental in achieving the results presented in this paper. {insert doi badge from zenodo}
 
 ---
 
