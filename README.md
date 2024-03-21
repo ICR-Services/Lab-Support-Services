@@ -4,7 +4,7 @@ We acknowledge the Laboratory Support Service at The Institute of Cancer Researc
 ---
 
 ## Service Description
-# {insert-service-description-name}
+# Laboratory Support Service
 
 ### {insert-service-parent}, Institute of Cancer Research  
 {description of servcice}
